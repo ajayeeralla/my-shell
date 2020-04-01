@@ -1,2 +1,13 @@
 {
+    
+        "rust.cargoPath": "/Users/aeeralla/.cargo/bin/cargo",
+        "rust.cargoHomePath": "/Users/aeeralla/.cargo",
+        "rust.rustfmtPath": "/Users/aeeralla/.cargo/bin/rustfmt",
+        "rust.rustsymPath": "/Users/aeeralla/.cargo/bin/rustsym",
+        "rust.rustLangSrcPath": "/Users/aeeralla/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src",
+        "rust.mode": "rls",
+        "rust.rls": {
+          "executable": "/Users/aeeralla/.cargo/bin/rls",
+          "useRustfmt": true
+        }
 }
